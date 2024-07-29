@@ -13,15 +13,6 @@ import axios from "axios";
 
 import Product from "./models/productModel.js";
 
-
-// echo "# mern_stack" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/monsoon2001/mern_stack.git
-// git push -u origin main
-
 //configure env
 dotenv.config();
 
