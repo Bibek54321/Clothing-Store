@@ -52,7 +52,7 @@ router.delete("/delete-product/:pid", deleteProductController);
 //filter product
 router.post("/product-filters", productFiltersController);
 
-//product count
+//product count routes
 router.get("/product-count", productCountController);
 
 //product per page
